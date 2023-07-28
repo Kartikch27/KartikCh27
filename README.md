@@ -28,7 +28,7 @@
 
 ## 👋 Hello Visitors! 
 
-I'm a software developer | Campus Ambassador @5ireChain and tech enthusiast passionate about building innovative solutions and contributing to the open-source community. I love diving into new technologies and exploring their potential to make a positive impact.
+I'm a software developer | Tech enthusiast passionate about building innovative solutions and contributing to the open-source community. I love diving into new technologies and exploring their potential to make a positive impact.
 
 - 🔭 I’m currently working on ** React, MERN Stack, Nodejs**
 
