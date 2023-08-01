@@ -30,7 +30,7 @@
 
 I'm a software developer | Tech enthusiast passionate about building innovative solutions and contributing to the open-source community. I love diving into new technologies and exploring their potential to make a positive impact.
 
-- 🔭 I’m currently working on ** React, MERN Stack, Nodejs **
+- 🔭 I’m currently working on ** React, MERN Stack, Nodejs.**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
